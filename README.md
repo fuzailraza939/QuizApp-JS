@@ -1,5 +1,6 @@
 # QuizApp-JS
 Quiz Application built with HTML, CSS, JavaScript, and Bootstrap
+
 📌 Project Description – HTML Quiz Application
 
 🔹 Overview The HTML Quiz Application is a web-based project using HTML, CSS, JavaScript, and Bootstrap that provides users with an interactive way to practice multiple-choice questions.
