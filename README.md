@@ -15,4 +15,4 @@ Final score display after submission
 
 Clean design with simple animations
 
-🔹 Technologies Used HTML5, CSS3, Bootstrap 5, JavaScript (ES6)
+🔹 Technologies Used HTML5, CSS3, Bootstrap 5, JavaScript (ES6) 
